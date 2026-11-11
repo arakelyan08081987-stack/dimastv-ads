@@ -1,0 +1,106 @@
+{
+  "channel": {
+    "name": "DIMAS.TV",
+    "handle": "@dimas-t-v",
+    "url": "https://www.youtube.com/@dimas-t-v",
+    "contact_email": "dimastvcooperation@gmail.com",
+    "site_url": "https://dimastv-media.netlify.app",
+    "github_repo": "https://github.com/arakelyan08081987-stack/dimastv-ads"
+  },
+  "audience_stats": {
+    "youtube_subscribers": 2158255,
+    "monthly_views": 10400000,
+    "engaged_views": 7800000,
+    "watch_hours_monthly": 790000,
+    "fast_start_views_2_5h": 19500,
+    "vr_views_per_video": "100K-300K+",
+    "tiktok_followers": 507400,
+    "tiktok_likes": 7000000,
+    "discord_members": 54960,
+    "steam_members": 12677
+  },
+  "demographics": {
+    "gender": {
+      "male": 51.0,
+      "female": 48.9,
+      "user_defined": 0.1
+    },
+    "age_structure": {
+      "13_17": 5.6,
+      "18_24": 10.6,
+      "25_34": 39.4,
+      "35_44": 29.8,
+      "45_54": 8.1,
+      "55_64": 3.8,
+      "65_plus": 2.8,
+      "adult_share_18_44": 79.8
+    },
+    "devices": {
+      "mobile": 41.2,
+      "smart_tv": 40.6,
+      "tablet": 10.7,
+      "desktop_pc": 7.1
+    },
+    "top_countries": {
+      "kazakhstan": 18.9,
+      "ukraine": 18.1,
+      "russia": 16.6,
+      "belarus": 5.0,
+      "kyrgyzstan": 4.7,
+      "other_countries": 36.7
+    }
+  },
+  "rates_usd": {
+    "discount": "50%",
+    "formats": [
+      {
+        "id": "pre_roll",
+        "name_ru": "Реклама в начале ролика (Pre-roll)",
+        "name_en": "Pre-roll Ad (Video Start)",
+        "price_usd": 500,
+        "old_price_usd": 1000,
+        "placement": "Первые 1-2 минуты (максимальный CTR), вечное размещение"
+      },
+      {
+        "id": "post_roll",
+        "name_ru": "Реклама в конце ролика (Post-roll)",
+        "name_en": "Post-roll Ad (Video End)",
+        "price_usd": 150,
+        "old_price_usd": 300,
+        "placement": "Финал видео с призывом к действию"
+      },
+      {
+        "id": "yt_community",
+        "name_ru": "Пост во вкладке Сообщество YouTube",
+        "name_en": "YouTube Community Tab Post",
+        "price_usd": 250,
+        "old_price_usd": 500,
+        "placement": "Баннер + текст + прямая ссылка на 2.15M+ подписчиков"
+      },
+      {
+        "id": "tiktok",
+        "name_ru": "Реклама в TikTok (507K Verified)",
+        "name_en": "TikTok Video Ad (507K Verified)",
+        "price_usd": 100,
+        "old_price_usd": 200,
+        "placement": "Интеграция или отдельный ролик с тегами бренда"
+      },
+      {
+        "id": "discord",
+        "name_ru": "Анонс в сообществе Discord (55K)",
+        "name_en": "Discord Server Announcement (55K)",
+        "price_usd": 100,
+        "old_price_usd": 200,
+        "placement": "Официальный пост на 24 часа с пингом целевых игроков"
+      },
+      {
+        "id": "steam",
+        "name_ru": "Анонс в группе Steam (12.7K)",
+        "name_en": "Steam Community Group Post (12.7K)",
+        "price_usd": 50,
+        "old_price_usd": 100,
+        "placement": "Анонс для активных ПК-геймеров"
+      }
+    ]
+  }
+}
